@@ -4,6 +4,6 @@
 // @description Plugin for slither.io
 // @include     http://slither.io/*
 // @include     http://slither.io/*
-// @version     1.1
+// @version     1.11
 // @grant       none
 // ==/UserScript==

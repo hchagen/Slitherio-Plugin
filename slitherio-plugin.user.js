@@ -4,7 +4,7 @@
 // @description Plugin for slither.io
 // @include     http://slither.io/*
 // @include     https://slither.io/*
-// @version     1.1
+// @version     1.11
 // @grant       none
 // ==/UserScript==
 
@@ -22,7 +22,8 @@ var topElem = document.createElement('span');
 topElem.style.position = 'fixed';
 topElem.style.zIndex = '666';
 topElem.style.top = '5px';
-topElem.style.left = '666px';
+topElem.style.left = '50%';
+topElem.style.marginLeft = '-250px'
 topElem.style.fontSize = '20px';
 topElem.style.fontFamily = 'Verdana';
 topElem.style.color = '#FFF';

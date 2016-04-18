@@ -74,5 +74,5 @@ window.onload = function(){
     parent.appendChild(div);
     timerID = setInterval(function () {
         updateElem();
-    });
+    }, 1000);
 };
